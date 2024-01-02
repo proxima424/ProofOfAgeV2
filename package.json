@@ -1,0 +1,20 @@
+{
+  "name": "proofofage",
+  "version": "1.0.0",
+  "description": "Presenting art as Base64 Encoded NFT present an elegant solution to the obvious problem a large portion of the NFTs in circulation today have :::: Dependence on offchain services for art storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxima424/ProofOfAge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proxima424/ProofOfAge/issues"
+  },
+  "homepage": "https://github.com/proxima424/ProofOfAge#readme"
+}
